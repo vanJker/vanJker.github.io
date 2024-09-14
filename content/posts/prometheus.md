@@ -6,6 +6,8 @@ tags = ["Coder", "YouTube"]
 summary = "油管上的一些知名的程序员和计算机科学家"
 +++
 
+## YouTube
+
 - [Tsoding](https://www.youtube.com/tsoding) / [Tsoding Daily](https://www.youtube.com/@TsodingDaily): 高强度 Coding，啥语言都有
 - [sphaerophoria](https://www.youtube.com/@sphaerophoria): 高强度 Coding，主要是 Rust 和 Zig
 - [Jon Gjengset](https://www.youtube.com/@jonhoo): 低频率但超高强度 Coding，Rust 用的很溜
@@ -15,4 +17,5 @@ summary = "油管上的一些知名的程序员和计算机科学家"
 - [Andreas Kling](https://www.youtube.com/@awesomekling): 开源操作系统 [SerenityOS](https://serenityos.org/) 的作者，最近在弄 [Ladybird](https://ladybird.org/) 浏览器
 - [Luke Smith](https://www.youtube.com/@LukeSmithxyz): 关于 Unix、Shell 和 Vim 哲学讲的挺好的
 - [Code Therapy w/ René Rebe](https://www.youtube.com/@MoreReneRebe) / [Bits inside by René Rebe](https://www.youtube.com/@renerebe): 主题偏向硬件
-
+- [. GUTS](https://www.youtube.com/@sysprog): 宅色夫 jserv，讲座面向被 C 和 Linux 大型项目毒打过的老手，很有启发
+- [Nic Jackson](https://www.youtube.com/@NicJackson): 主要是 Go 语言的一些实作项目
