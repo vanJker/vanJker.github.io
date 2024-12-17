@@ -1,5 +1,5 @@
 baseURL: "https://vanJker.github.io/" # 主站的 URL
-title: VanJker's Blog # 站点标题
+title: Joken's Blog # 站点标题
 copyright: "[©2024 VanJker's Blog](https://vanJker.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
