@@ -2,7 +2,7 @@
 title = 'Prometheus'
 date = 2024-09-07T12:46:47+08:00
 categories = []
-tags = ["Coder", "YouTube", "bilibili"]
+tags = ["Programming", "YouTube", "bilibili"]
 summary = "油管、B 站上的一些知名的程序员和计算机科学家以及组织"
 +++
 

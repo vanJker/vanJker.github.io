@@ -1,6 +1,6 @@
 baseURL: "https://vanJker.github.io/" # 主站的 URL
 title: Joken's Blog # 站点标题
-copyright: "[©2024 VanJker's Blog](https://vanJker.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2024 Joken's Blog](https://vanJker.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
@@ -55,12 +55,12 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: vanJker
-  defaultTheme: light # 默认是暗色背景
+  defaultTheme: light # 默认是亮色背景
   ShowShareButtons: false # 关闭分享的按钮
   ShowReadingTime: true # 展示预估的阅读时长
   displayFullLangName: true # 展示全名
   ShowPostNavLinks: true # 展示文章导航链接，就是下一页上一页的那个
-  ShowBreadCrumbs: false # 是否展示标题上方的面包屑
+  ShowBreadCrumbs: true # 是否展示标题上方的面包屑
   ShowCodeCopyButtons: true # 是否展示复制代码的按钮
   ShowRssButtonInSectionTermList: true # RSS 相关
   ShowAllPagesInArchive: true # 在归档页面展示所有的页面
@@ -106,6 +106,15 @@ params:
       favicon32x32: "favicon.png"
       apple_touch_icon: "favicon.png"
       safari_pinned_tab: "favicon.png"
+    
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there is Joker Von \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/vanJker"
 
 markup:
   goldmark:
