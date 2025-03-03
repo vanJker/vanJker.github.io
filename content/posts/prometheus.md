@@ -10,10 +10,12 @@ summary = "油管、B 站上的一些知名的程序员和计算机科学家以�
 
 - [Jon Gjengset](https://www.youtube.com/@jonhoo): 低频率但超高强度 Coding，Rust 用的很溜
 - [Tsoding](https://www.youtube.com/tsoding) / [Tsoding Daily](https://www.youtube.com/@TsodingDaily): 高频率高强度 Coding，啥语言都有
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen): 读文章和采访很好，他的观点可以扩展视野
 - [sphaerophoria](https://www.youtube.com/@sphaerophoria): 高频率高强度 Coding，主要是 Rust 和 Zig
 - [Code Therapy w/ René Rebe](https://www.youtube.com/@MoreReneRebe) / [Bits inside by René Rebe](https://www.youtube.com/@renerebe): 专注 Low Level 和 Linux
 - [dr Jonas Birch](https://www.youtube.com/@dr-Jonas-Birch/featured): 专注 low-level and C projects
-- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen): 读文章和采访很好，他的观点可以扩展视野
+- [Queso Fuego](https://www.youtube.com/@QuesoFuego): 专注系统底层开发，例如 UEFI
+- [Pixeled](https://www.youtube.com/@pixeled-yt): 在 YT 上找到的为数不多的 C++ in Linux 选手
 - [Molly Rocket](https://www.youtube.com/@MollyRocket): 大名鼎鼎的 [Handmade Hero](https://handmadehero.org/) 的作者
 - [Jonathan Blow](https://www.youtube.com/@jblow888): 独立游戏开发者，人称“炮哥”
 - [george hotz archive](https://www.youtube.com/@geohotarchive): 天才黑客 George Hotz
